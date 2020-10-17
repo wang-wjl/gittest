@@ -4,6 +4,7 @@ public class Customer {
 
     private String name;
     private int num;
+    private String address;
     public static void main(String[] args) {
         System.out.println("Hello");
     }
